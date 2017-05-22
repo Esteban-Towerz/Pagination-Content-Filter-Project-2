@@ -1,4 +1,4 @@
-JS Pagination and Search Project
+Pagination & Content Filter Project - 2
 ================================
 
 ## Requirements
